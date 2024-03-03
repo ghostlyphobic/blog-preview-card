@@ -3,7 +3,7 @@ body{
     font-size: 16px;
     display:flex;
     justify-content: center;
-    font-family:figtree;
+    font-family: "Figtree", sans-serif;
 }
 
 .main-image{
@@ -19,6 +19,7 @@ svg{
 .container{
     background:hsl(0, 0%, 100%);
     border:hsl(0, 0%, 7%) ;
+    width:25%;
 }
 
 #paragraph{
@@ -41,6 +42,14 @@ svg{
     font-weight:800;
 }
 
+
+/* 
+.figtree-uniquifier {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+} */
 
 
 .attribution { 
